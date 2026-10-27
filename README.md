@@ -11,7 +11,7 @@ O projeto foi desenvolvido com foco na experiência do usuário, na organizaçã
 ## 🖼️ Telas do projeto
 
 ### Tela principal
-![Tela principal do BiblioWeb](assets/tela-principal.png)
+![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Tela%20Principal.png?raw=true)
 
 ### Pesquisa de livros
 ![Pesquisa de livros](assets/pesquisa-livros.png)
