@@ -14,13 +14,13 @@ O projeto foi desenvolvido com foco na experiência do usuário, na organizaçã
 ![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Tela%20Principal.png?raw=true)
 
 ### Pesquisa de livros
-![Pesquisa de livros](assets/pesquisa-livros.png)
+![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Livros%20Principais.png?raw=true)
 
 ### Detalhes do livro
-![Detalhes do livro](assets/detalhes-livro.png)
+![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Dom%20Quixote.png?raw=true)
 
 ### Confirmação da reserva
-![Confirmação da reserva](assets/confirmacao-reserva.png)
+![image alt](https://github.com/JOTTAX200/BiblioWeb/blob/main/Reserva%20-%20Confima%C3%A7%C3%A3o(Dom%20Quixote).png?raw=true)
 ## 🎯 Objetivo do projeto
 
 Desenvolver um protótipo de aplicativo que torne o processo de reserva de livros mais prático e organizado, reduzindo as dificuldades encontradas pelos usuários ao procurar obras em bibliotecas físicas.
