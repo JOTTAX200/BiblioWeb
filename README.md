@@ -8,7 +8,19 @@ O **BiblioWeb** é um projeto de UX/UI Design que propõe uma solução digital 
 O projeto foi desenvolvido com foco na experiência do usuário, na organização das informações e na criação de uma interface objetiva, acessível e visualmente agradável.
 
 ---
+## 🖼️ Telas do projeto
 
+### Tela principal
+![Tela principal do BiblioWeb](assets/tela-principal.png)
+
+### Pesquisa de livros
+![Pesquisa de livros](assets/pesquisa-livros.png)
+
+### Detalhes do livro
+![Detalhes do livro](assets/detalhes-livro.png)
+
+### Confirmação da reserva
+![Confirmação da reserva](assets/confirmacao-reserva.png)
 ## 🎯 Objetivo do projeto
 
 Desenvolver um protótipo de aplicativo que torne o processo de reserva de livros mais prático e organizado, reduzindo as dificuldades encontradas pelos usuários ao procurar obras em bibliotecas físicas.
